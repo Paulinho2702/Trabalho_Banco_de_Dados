@@ -21,3 +21,8 @@ A ideia surgiu como uma forma de ajudar os funcionários e a dona do estabelecim
   Pagamento dos serviços ou produtos comprados;
 
   Avaliar os funcionários e os serviços gerais do estabelecimento;
+
+#### Observações:
+
+O projeto esta sendo realizado apenas para a matéria de banco de dados, pois o integrante realizou as matérias Programação 2 e Engenharia de Software 1 anteriormente.
+Como o trabalho de Eng 1 completo ele estará disponível neste repositório.  
